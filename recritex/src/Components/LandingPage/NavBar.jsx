@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import "../../App.css";
 import { Link, useNavigate } from 'react-router-dom'; // Import useLocation
 import { FaHome,FaBriefcase, FaCheckCircle, FaInfoCircle, FaPhoneAlt,  FaUserShield, FaUserTie, FaUser,FaUserPlus, FaUserAlt, FaUsers,  FaSignOutAlt } from "react-icons/fa";
 
